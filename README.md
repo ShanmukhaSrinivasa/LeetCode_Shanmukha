@@ -7,8 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0031-next-permutation) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0031-next-permutation) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
