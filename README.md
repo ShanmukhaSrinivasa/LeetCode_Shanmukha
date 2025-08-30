@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1448-maximum-69-number) |
 ## Binary Search
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
