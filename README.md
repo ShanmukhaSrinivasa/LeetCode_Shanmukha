@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
