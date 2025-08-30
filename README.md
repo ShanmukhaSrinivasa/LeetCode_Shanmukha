@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0342-power-of-four) |
+| [1054-complement-of-base-10-integer](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1054-complement-of-base-10-integer) |
 ## Math
 |  |
 | ------- |
