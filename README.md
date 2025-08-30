@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2102-find-the-middle-index-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
