@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0485-max-consecutive-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
