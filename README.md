@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0541-reverse-string-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
