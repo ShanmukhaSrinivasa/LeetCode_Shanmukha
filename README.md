@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0724-find-pivot-index](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -129,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
