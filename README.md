@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0075-sort-colors](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1448-maximum-69-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0048-rotate-image](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0073-set-matrix-zeroes) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
