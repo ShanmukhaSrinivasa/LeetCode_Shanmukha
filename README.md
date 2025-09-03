@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0136-single-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0485-max-consecutive-ones) |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0001-two-sum](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
