@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
 | [0724-find-pivot-index](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0053-maximum-subarray](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0069-sqrtx](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
@@ -191,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
