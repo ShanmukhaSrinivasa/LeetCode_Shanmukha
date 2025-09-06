@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0342-power-of-four](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0342-power-of-four) |
 | [1054-complement-of-base-10-integer](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1054-complement-of-base-10-integer) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
