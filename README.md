@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0724-find-pivot-index](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0907-koko-eating-bananas) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2102-find-the-middle-index-in-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0540-single-element-in-a-sorted-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
