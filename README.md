@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
