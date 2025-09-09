@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0054-spiral-matrix](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1013-fibonacci-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
