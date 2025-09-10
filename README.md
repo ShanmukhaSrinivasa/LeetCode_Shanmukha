@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
