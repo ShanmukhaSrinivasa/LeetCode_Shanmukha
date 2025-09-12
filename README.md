@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0125-valid-palindrome](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0541-reverse-string-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3617-find-the-original-typed-string-i) |
 ## Number Theory
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
