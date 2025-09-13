@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | ------- |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0541-reverse-string-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0541-reverse-string-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
