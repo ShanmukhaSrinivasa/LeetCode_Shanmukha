@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0792-binary-search](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0907-koko-eating-bananas) |
+| [1006-vowel-spellchecker](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1006-vowel-spellchecker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
+| [1006-vowel-spellchecker](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0125-valid-palindrome](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0541-reverse-string-ii) |
+| [1006-vowel-spellchecker](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1006-vowel-spellchecker) |
 | [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
