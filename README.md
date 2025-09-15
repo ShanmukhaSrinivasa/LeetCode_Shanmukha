@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
 | [1006-vowel-spellchecker](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0344-reverse-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0541-reverse-string-ii) |
 | [1006-vowel-spellchecker](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
