@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
+| [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | ------- |
 | [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
