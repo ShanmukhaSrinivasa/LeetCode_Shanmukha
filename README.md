@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0054-spiral-matrix](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3797-design-spreadsheet) |
 ## Geometry
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## Stack
 |  |
