@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -263,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0493-reverse-pairs](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
