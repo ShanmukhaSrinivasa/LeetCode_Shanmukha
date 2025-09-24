@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | ------- |
 | [0001-two-sum](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 | [0009-palindrome-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0268-missing-number) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - My Profile [ht
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/0541-reverse-string-ii) |
 | [1006-vowel-spellchecker](https://github.com/ShanmukhaSrinivasa/LeetCode_Shanmukha/tree/master/1006-vowel-spellchecker) |
